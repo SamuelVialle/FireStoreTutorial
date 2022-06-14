@@ -1,0 +1,2 @@
+rootProject.name = "FireStore Tutorial"
+include ':app'
